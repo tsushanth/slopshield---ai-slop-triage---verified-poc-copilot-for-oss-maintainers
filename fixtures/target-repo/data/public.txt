@@ -1,0 +1,1 @@
+hello, this file is meant to be readable via /read?file=public.txt
